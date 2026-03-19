@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Au cœur de la Meule</title>
+    <link>https://campusbelfortmontbeliard.fr/emissions/au-coeur-de-la-meule/</link>
     <description>Podcast Radio Campus Belfort-Montbéliard</description>
     <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/visuel-au-coeur-de-la-meule-400x400.jpg"/>
     <itunes:author>Radio Campus Belfort-Montbéliard</itunes:author>
@@ -11,6 +12,17 @@
 </itunes:owner>
 <managingEditor>acdlm88.8@proton.me</managingEditor>
 <webMaster>acdlm88.8@proton.me</webMaster>
+
+  <!-- LANGUE (AJOUTÉ) -->
+  <language>fr-fr</language>
+  
+  <!-- CATÉGORIES APPLE PODCASTS (AJOUTÉES) -->
+  <itunes:category text="Society & Culture">
+    <itunes:category text="Arts"/>
+  </itunes:category>
+  
+  <!-- EXPLICIT SETTING (AJOUTÉ) -->
+  <itunes:explicit>yes</itunes:explicit>
         <item>
       <title>ACDLM S1-Ep8 TCG et Jeux de cartes | 24-03-2025 - Radio Campus Belfort Montbéliard</title>
       <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-8-tcg-et-jeux-de-cartes-24-03-2025</link>
