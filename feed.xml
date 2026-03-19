@@ -13,15 +13,12 @@
 <managingEditor>acdlm88.8@proton.me</managingEditor>
 <webMaster>acdlm88.8@proton.me</webMaster>
 
-  <!-- LANGUE (AJOUTÉ) -->
   <language>fr-fr</language>
-  
-  <!-- CATÉGORIES APPLE PODCASTS (AJOUTÉES) -->
-  <itunes:category text="Society & Culture">
+
+  <itunes:category text="Society &amp; Culture">
     <itunes:category text="Arts"/>
   </itunes:category>
   
-  <!-- EXPLICIT SETTING (AJOUTÉ) -->
   <itunes:explicit>yes</itunes:explicit>
         <item>
       <title>ACDLM S1-Ep8 TCG et Jeux de cartes | 24-03-2025 - Radio Campus Belfort Montbéliard</title>
