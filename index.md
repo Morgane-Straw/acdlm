@@ -12,6 +12,7 @@ Et retrouvez nous sur :
 - [Twitch](m.twitch.tv/acdlm_88_8/home)
 - [Facebook](https://www.facebook.com/groups/1407507584001539)
 - [Discord](https://discord.com/invite/DwHNXnJZHn)
+- Par mail à [acdlm88.8@proton.me](mailto:acdlm88.8@proton.me)
 
 Et écoutez nous en replay sur:
 
@@ -20,5 +21,7 @@ Et écoutez nous en replay sur:
 - [Spotify](https://open.spotify.com/show/70bzd0FdrXjvR7b6RGcgqb)
 - [PodcastIndex](https://podcastindex.org/podcast/7774195)
 - [fyyd](https://fyyd.de/podcast/au-coeur-de-la-meule/0)
-  Vous n'arrivez
-  Pour vous abonner écouter notre podcast sur votre appli préférée, copiez puis collez le lien rss suivant [https://morgane-straw.github.io/acdlm/feed.xml](https://morgane-straw.github.io/acdlm/feed.xml)
+
+  Vous n'arrivez à nous écouter ? Ecrivez nous sur les réseaux sociaux ou par mail !
+
+  Et si votre appli préférée n'est pas dans la liste, voici notre flux rss pour l'avouter et vous abonner [https://morgane-straw.github.io/acdlm/feed.xml](https://morgane-straw.github.io/acdlm/feed.xml)
