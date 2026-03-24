@@ -22,6 +22,8 @@ Et écoutez nous en replay sur:
 - [PodcastIndex](https://podcastindex.org/podcast/7774195)
 - [fyyd](https://fyyd.de/podcast/au-coeur-de-la-meule/0)
 
-  Vous n'arrivez à nous écouter ? Ecrivez nous sur les réseaux sociaux ou par mail !
+Vous n'arrivez à nous écouter ? Ecrivez nous sur les réseaux sociaux ou par mail !
 
-  Et si votre appli préférée n'est pas dans la liste, voici notre flux rss pour l'avouter et vous abonner [https://morgane-straw.github.io/acdlm/feed.xml](https://morgane-straw.github.io/acdlm/feed.xml)
+Et si votre appli préférée n'est pas dans la liste, voici notre flux rss pour l'avouter et vous abonner
+
+[https://morgane-straw.github.io/acdlm/feed.xml](https://morgane-straw.github.io/acdlm/feed.xml)
