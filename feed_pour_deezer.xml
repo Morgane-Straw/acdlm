@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Au cœur de la Meule</title>
+    <link>https://campusbelfortmontbeliard.fr/emissions/au-coeur-de-la-meule/</link>
+    <description>Podcast Radio Campus Belfort-Montbéliard</description>
+    <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/visuel-au-coeur-de-la-meule-400x400.jpg"/>
+    <itunes:author>Radio Campus Belfort-Montbéliard</itunes:author>
+    <itunes:owner>
+  <itunes:name>Radio Campus Belfort-Montbéliard</itunes:name>
+  <itunes:email>acdlm88.8@proton.me</itunes:email>
+</itunes:owner>
+<managingEditor>acdlm88.8@proton.me</managingEditor>
+<webMaster>acdlm88.8@proton.me</webMaster>
+
+  <language>fr-fr</language>
+
+  <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Arts"/>
+  </itunes:category>
+  
+  <itunes:explicit>yes</itunes:explicit>
+        <item>
+      <title>ACDLM S2-Ep5 Doublage | 23-02-26 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s2-ep5-doublage-23-02-26</link>
+      <guid isPermaLink="false">acdlm-s2-ep5-doublage-23-02-26</guid>
+      <description>Dans cet épisode Val, Morgane et Alexis vont vous parler de doublage et des voix qui ont résonné dans leur enfance !
+Episode qui a donné lieu à un crash test doublage après émission et créé une passion pour nos chronicos !</description>
+      <pubDate>Tue, 24 Mar 2026 19:01:12 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/acdlm-doublage-23-02-26.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:50:47</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/acdlm23022026.png"/>
+    </item>
+        <item>
+      <title>ACDLM S2-Ep6 Girl-Power | 09-03-26 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s2-ep6-girl-power-09-03-26</link>
+      <guid isPermaLink="false">acdlm-s2-ep6-girl-power-09-03-26</guid>
+      <description>Pour ce lendemain de la journée internationale de luttes pour les droits des femmes, nos fidèles chroniqueurs et chroniqueuse (Nico, Morgane, Val et Alexis) vont parler de figures féminines dans la pop culture, et leur représentation (et manque de représentation) et ce que ça leur évoque.
+Spoiler cet épisode ne passe malheureusement pas le test de Bechdel, d’ici l’année prochaine on fait mieux !</description>
+      <pubDate>Tue, 24 Mar 2026 19:00:59 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/ACDLM-Girl-Power-09-03-26.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:45:52</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/03/acdlm09032026.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep8 TCG et Jeux de cartes | 24-03-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-8-tcg-et-jeux-de-cartes-24-03-2025</link>
+      <guid isPermaLink="false">acdlm-s1-8-tcg-et-jeux-de-cartes-24-03-2025</guid>
+      <description>Retouvez Quentin, Mathieu, Christophe et Alexis pour discuter et jouer autour de la thématique des jeux de carte à collectionner (Trading Card Games) et autres jeux de cartes !
+Bonne écoute !</description>
+      <pubDate>Thu, 19 Mar 2026 08:01:07 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-TCG-Jeux-de-cartes.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:59:09</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM24032025.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep3 Adaptations de jeux vidéos en film | 16-12-2024 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-3-adaptations-de-jeux-videos-en-film-16-12-2024</link>
+      <guid isPermaLink="false">acdlm-s1-3-adaptations-de-jeux-videos-en-film-16-12-2024</guid>
+      <description>Dans cet épisode nous allons retrouver Ambre, Nathan, Nicolas (et des invités surprises) et Alexis pour nous parler d’adaptations de jeux vidéos en film (et parfois l’inverse) !
+Et comme toujours des anecdotes, des jeux (du blind test !) et des discussions
+Bonne écoute</description>
+      <pubDate>Thu, 19 Mar 2026 08:03:22 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-Adaptation-de-jeux-videos.mp3" type="audio/mpeg"/>
+      <itunes:duration>2:01:41</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-3-Jeux-videos.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep5 Disney | 10-02-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-5-disney-10-02-2025</link>
+      <guid isPermaLink="false">acdlm-s1-5-disney-10-02-2025</guid>
+      <description>Dans cet épisode retrouvez Nicolas, Hervé et Alexis pour une émission sur le thème de Disney !
+Comme d’habitude des anecdotes, des jeux et des débats !
+Bonne écoute !</description>
+      <pubDate>Thu, 19 Mar 2026 08:04:04 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-Disney.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:58:07</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-5-Star-wars.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep4 Road Movie | 27-01-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-4-road-movie-27-01-2025</link>
+      <guid isPermaLink="false">acdlm-s1-4-road-movie-27-01-2025</guid>
+      <description>Dans cet épisode retrouvez Ambre, Nicolas et Alexis pour parler de road movie, ces films de voyage
+Comme d’habitude des jeux, des débats et des anecdotes !
+Bonne écoute</description>
+      <pubDate>Thu, 19 Mar 2026 08:05:09 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-Road-movie.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:54:13</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-4-Road-Movie.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep7 Escape Game | 10-03-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-7-escape-game-10-03-2025</link>
+      <guid isPermaLink="false">acdlm-s1-7-escape-game-10-03-2025</guid>
+      <description>Dans cet épisode retrouvez Nicolas, Ada, Val, Elodie et Alexis pour parler d’escape game comme d’habitude autour de jeux, débats et anecdotes !
+Bonne écoute !</description>
+      <pubDate>Thu, 19 Mar 2026 08:05:51 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-Escape-Game.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:57:49</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/acdlm10032025.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep6 Sport | 24-02-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-6-sport-24-02-2025</link>
+      <guid isPermaLink="false">acdlm-s1-6-sport-24-02-2025</guid>
+      <description>Dans cet épisode retrouvez Milan, Marlon, Val, Morgane et Alexis vous parler  de leurs expériences (plus ou moins fructueuses !) avec le sport et de sa place dans la société
+Au programme, des anecdotes, des débats et des jeux.
+Bonne écoute !</description>
+      <pubDate>Thu, 19 Mar 2026 08:06:34 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-Sport.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:59:13</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/acdlm24022025.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep10 Live Action | 05-05-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-10-live-action-05-05-2025</link>
+      <guid isPermaLink="false">acdlm-s1-10-live-action-05-05-2025</guid>
+      <description>Pour cet épisode retrouvez Nicolas, Morgane, Val, Jimmy et Alexis parler des live action, ces adaptations de dessins animés en prise de vue réelle. Au programme des tops, des flops et des jeux (dont le traditionnel blind test !)
+Bonne écoute !</description>
+      <pubDate>Thu, 19 Mar 2026 08:07:12 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-Live-Action.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:59:55</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/acdlm05052025.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep11 Jeux de société | 02-06-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-11-jeux-de-societe-02-06-2025</link>
+      <guid isPermaLink="false">acdlm-s1-11-jeux-de-societe-02-06-2025</guid>
+      <description>Dans cet épisode nous retrouverons Nicolas, Morgane, Valentin, Jimmy et Alexis pour parler jeux de sociétés. Des recommandations, des anecdotes, des jeux  (sur des jeux d’ailleurs) et des opinions !
+A vos écouteurs et bonne écoute !</description>
+      <pubDate>Thu, 19 Mar 2026 08:07:47 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-Jeux-de-societe.mp3" type="audio/mpeg"/>
+      <itunes:duration>1:59:53</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/acdlm02062025.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep9 Jeux de rôles | 21-04-2025 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-9-jeux-de-roles-21-04-2025</link>
+      <guid isPermaLink="false">acdlm-s1-9-jeux-de-roles-21-04-2025</guid>
+      <description>Dans cet épisode d’Au Cœur De La Meule, nous allons partir à l’aventure au travers de l’histoire passionnante du Jeux de Rôles. Dans cette émission vous allez être en compagnie de Manon, Marlon, et Milan, 3 passionnés de cet univers, et de Nicolas novice en la matière.
+Anecdotes, jeux et musiques voici le programme bien chargé de cette émission.
+A vos écouteurs et bonne écoute</description>
+      <pubDate>Thu, 19 Mar 2026 08:08:14 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-JDR.mp3" type="audio/mpeg"/>
+      <itunes:duration>2:01:18</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM-9-jdr.png"/>
+    </item>
+        <item>
+      <title>ACDLM S1-Ep1 Harry Potter | 18-11-2024 - Radio Campus Belfort Montbéliard</title>
+      <link>https://campusbelfortmontbeliard.fr/replay/acdlm-s1-1-harry-potter-18-11-2024</link>
+      <guid isPermaLink="false">acdlm-s1-1-harry-potter-18-11-2024</guid>
+      <description>Venez plonger avec Alexis, Ilhame, Sonia et Ambre au cœur de la première d’au cœur de la meule, où l’on parle d’Harry Potter et de l’impact que cet univers a pu avoir sur chacun d’entre nous.
+Vous aurez aussi l’occasion de jouer de chez vous pour battre nos chroniqueurs (ou juste de s’amuser si vous n’avez pas l’esprit compétitif de Serpentard).</description>
+      <pubDate>Thu, 19 Mar 2026 08:08:44 +0000</pubDate>
+      <enclosure url="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/ACDLM1.mp3" type="audio/mpeg"/>
+      <itunes:duration>2:00:07</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://campusbelfortmontbeliard.fr/wp-content/uploads/sites/2/2026/01/Blue-and-White-Circle-Surfing-Club-Logo.png"/>
+    </item>
+  </channel>
+</rss>
